@@ -1,0 +1,22 @@
+[
+  {
+    "package": "cooltools",
+    "oncran": true
+  },
+  {
+    "package": "docore",
+    "oncran": true
+  },
+  {
+    "package": "graphx",
+    "oncran": true
+  },
+  {
+    "package": "nbody",
+    "oncran": true
+  },
+  {
+    "package": "rglplus",
+    "oncran": true
+  }
+]
