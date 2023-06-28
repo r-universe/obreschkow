@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cooltools"]
 	path = cooltools
 	url = https://github.com/obreschkow/cooltools
-	shallow = true
-	registered = true
 [submodule "docore"]
 	path = docore
 	url = https://github.com/obreschkow/docore
-	shallow = true
-	registered = true
 [submodule "graphx"]
 	path = graphx
 	url = https://github.com/obreschkow/graphx
-	shallow = true
-	registered = true
 [submodule "nbody"]
 	path = nbody
 	url = https://github.com/obreschkow/nbody
-	shallow = true
-	registered = true
 [submodule "rglplus"]
 	path = rglplus
 	url = https://github.com/obreschkow/rglplus
-	shallow = true
-	registered = true
