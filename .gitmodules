@@ -8,12 +8,6 @@
 [submodule "docore"]
 	path = docore
 	url = https://github.com/obreschkow/docore
-[submodule "graphx"]
-	path = graphx
-	url = https://github.com/obreschkow/graphx
-[submodule "nbody"]
-	path = nbody
-	url = https://github.com/obreschkow/nbody
 [submodule "rglplus"]
 	path = rglplus
 	url = https://github.com/obreschkow/rglplus
