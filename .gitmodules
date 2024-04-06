@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "docore"]
 	path = docore
-	url = https://github.com/obreschkow/docore
+	url = https://github.com/cran/docore
 [submodule "rglplus"]
 	path = rglplus
 	url = https://github.com/obreschkow/rglplus
