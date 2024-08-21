@@ -8,6 +8,9 @@
 [submodule "docore"]
 	path = docore
 	url = https://github.com/cran/docore
+[submodule "nbody"]
+	path = nbody
+	url = https://github.com/cran/nbody
 [submodule "rglplus"]
 	path = rglplus
 	url = https://github.com/obreschkow/rglplus
