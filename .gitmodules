@@ -4,13 +4,13 @@
 	branch = HEAD
 [submodule "cooltools"]
 	path = cooltools
-	url = https://github.com/cran/cooltools
+	url = https://github.com/obreschkow/cooltools
 [submodule "docore"]
 	path = docore
 	url = https://github.com/cran/docore
 [submodule "nbody"]
 	path = nbody
-	url = https://github.com/cran/nbody
+	url = https://github.com/obreschkow/nbody
 [submodule "rglplus"]
 	path = rglplus
 	url = https://github.com/obreschkow/rglplus
